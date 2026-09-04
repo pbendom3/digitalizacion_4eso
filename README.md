@@ -25,7 +25,7 @@
   - Dispositivos y canales de interconexión.
   - Parámetros de red y comandos básicos.
 
-[*PROYECTO: PC customizado (para cliente)*]()
+[:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
   - Excel (presupuesto).
   - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
   - Docs (para generar informe).
@@ -43,13 +43,13 @@
   - Alojamiento web en _GitHub_.
   - GSites/Sway.
     
-[*PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
+[:open_file_folder: *PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
   - Sitio web con info de la exposición.
   - "_Ciber-Podcast_": grabar un programa de podcast corto sobre un ciberataque famoso. Se exporta en MP3 y se inserta directamente en la página web.
 
 [5. Modelado 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
 
-[*PROYECTO: Figura libre*]()
+[:open_file_folder: *PROYECTO: Figura libre*]()
   - Videotutorial proceso creación (edición vídeo y audio).
 
 ---
