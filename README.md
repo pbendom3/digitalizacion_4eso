@@ -25,7 +25,7 @@
   - Dispositivos y canales de interconexión.
   - Parámetros de red y comandos básicos.
 
-[*PROYECTO: PC customizado*]()
+[*PROYECTO: PC customizado (para cliente)*]()
   - Excel (presupuesto).
   - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
   - Docs (para generar informe).
