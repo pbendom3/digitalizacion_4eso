@@ -40,7 +40,7 @@
     
 [4. Introducción al desarrollo web](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `2ºT`
   - HTML básico.
-  - Alojamiento en GitHub.
+  - Alojamiento web en _GitHub_.
   - GSites/Sway.
     
 [*PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
