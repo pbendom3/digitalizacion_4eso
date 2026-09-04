@@ -27,12 +27,14 @@
 
 [*PROYECTO: PC customizado*]()
   - Excel (presupuesto).
+  - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
   - Docs (para generar informe).
   - Presentaciones digitales (para exposición).
 
 [3. Seguridad y bienestar digital](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP3/up3.md) `2ºT`
   - Tipos de seguridad.
   - Amenazas y ataques.
+  - Firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online.
   - Privacidad y huella digital.
   - Ciudadanía crítica: bulos y RRSS.
     
@@ -43,9 +45,10 @@
     
 [*PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
   - Sitio web con info de la exposición.
+  - "_Ciber-Podcast_": grabar un programa de podcast corto sobre un ciberataque famoso. Se exporta en MP3 y se inserta directamente en la página web.
 
 [5. Modelado 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
 
 [*PROYECTO: Figura libre*]()
-  - Videotutorial proceso creación (edición vídeo).
+  - Videotutorial proceso creación (edición vídeo y audio).
 
