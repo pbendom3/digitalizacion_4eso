@@ -7,15 +7,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="digi.PNG" width="700" height="">
 
 ## :books: Unidades
-[Bienvenida. Destrezas TIC y autorregulación del uso del móvil]()
+`Bienvenida` [Destrezas TIC y autorregulación del uso del móvil]() 
 
-[Introducción. Correo electrónico y buenas prácticas en informática](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP2/up2.md) `1ºT`
+`Introducción` [Correo electrónico y buenas prácticas en informática]() 
 
-[BONUS. Uso responsable de la IA como estudiantes]()
+`BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos.
    - Errores LLMs.
      
-[1. Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP1/up1.md) `1ºT - 28h`
+[1. Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP1/up1.md) `1ºT`
    - Tipos de dispositivos.
    - Sistemas operativos.
    - Informática verde (_Green IT_).
