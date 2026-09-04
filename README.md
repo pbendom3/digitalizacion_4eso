@@ -52,3 +52,15 @@
 [*PROYECTO: Figura libre*]()
   - Videotutorial proceso creación (edición vídeo y audio).
 
+---
+
+| **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seg.)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
+| ----------------------------------------- | ------------------------: | -----------------------: | -------------------------: | ---------------------------: | --------------------------: |
+| **Bienvenida, Intro e IA (Bonus)**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
+| **1. Dispositivos digitales (28h)**       |                   **55%** |                       0% |                    **15%** |                           0% |                          0% |
+| **2. Redes + PROYECTO: PC Customizado**   |                   **40%** |                  **25%** |                     **5%** |                           0% |                     **35%** |
+| **3. Seguridad y bienestar digital**      |                    **5%** |                  **10%** |                    **50%** |                      **60%** |                          0% |
+| **4. Dev Web + PROYECTO: Ciberseguridad** |                        0% |                  **30%** |                    **15%** |                      **15%** |                     **35%** |
+| **5. Blender + PROYECTO: Figura libre**   |                        0% |                  **25%** |                     **5%** |                           0% |                     **30%** |
+| **TOTAL DE CADA COMPETENCIA**             |                  **100%** |                 **100%** |                   **100%** |                     **100%** |                    **100%** |
+
