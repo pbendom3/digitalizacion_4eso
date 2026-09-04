@@ -4,9 +4,9 @@
 >> *"Lo MEJOR de la digitalización es que tienes acceso inmediato a casi todo el conocimiento humano."*
 >>> *"Lo PEOR de la digitalización es que ahora tienes la obligación de dudar de todo lo que encuentras para no caer en bulos."*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="digi.PNG" width="700" height="">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="digi.PNG" width="500" height="">
 
-## :books: Unidades
+## :books: Planificación y secuenciación
 `Bienvenida` [Destrezas TIC y autorregulación del uso del móvil]() 
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
