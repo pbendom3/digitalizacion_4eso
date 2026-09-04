@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="digi.PNG" width="700" height="">
 
 ## :books: Unidades
-[Bienvenida. Destrezas TIC]()
+[Bienvenida. Destrezas TIC y autorregulación del uso del móvil]()
 
 [Introducción. Correo electrónico y buenas prácticas en informática](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP2/up2.md) `1ºT`
 
