@@ -41,8 +41,7 @@
   - Presentaciones digitales (para exposición).
 
 [3. Introducción al desarrollo web y la programación]() `2ºT`
-  - HTML básico.
-  - Alojamiento web en _GitHub Pages_.
+  - HTML básico. Alojamiento web en _GitHub Pages_.
   - GSites/Sway.
   - Desarrollo de aplicaciones móviles con _AppInventor_.
      - Introducir IA con ML4Kids.
