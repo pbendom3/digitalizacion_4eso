@@ -19,7 +19,7 @@
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos.
    - Errores LLMs.
-   - Uso de NotebookLM.
+   - Uso de _NotebookLM_.
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
    - Protocolo de uso de IA:
       - Cuándo se puede utilizar y qué datos no deben introducirse en una herramienta externa.
