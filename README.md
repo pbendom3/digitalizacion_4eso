@@ -11,7 +11,8 @@
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
 - Acciones básicas con archivos y carpetas.
-- Organización del entorno de trabajo digital. Guardado de la información en la nube.  
+- Organización del entorno de trabajo digital. Guardado de la información en la nube y creación de entornos colaborativos.
+- Búsquedas en Internet. Tipos de navegadores.
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos.
