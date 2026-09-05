@@ -43,7 +43,9 @@
   - HTML básico.
   - Alojamiento web en _GitHub Pages_.
   - GSites/Sway.
-  - Desarrollo de aplicaciones móviles con _AppInventor_. Audacity para poner voz a las grabaciones de pantalla para presentar trabajos probando apps.
+  - Desarrollo de aplicaciones móviles con _AppInventor_.
+     - Introducir IA con ML4Kids.
+     - Audacity para poner voz a las grabaciones de pantalla para presentar trabajos probando apps.
     
 [4. Seguridad y bienestar digital]() `2ºT`
   - Tipos de seguridad.
