@@ -68,8 +68,8 @@
 | **Bienvenida, Intro e IA (Bonus)**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
 | **1. Dispositivos digitales**       |                   **55%** |                       0% |                    **15%** |                           0% |                          0% |
 | **2. Redes + PROYECTO: PC Customizado**   |                   **40%** |                  **25%** |                     **5%** |                           0% |                     **35%** |
-| **3. Dev Web + PROYECTO: Ciberseguridad** |                        0% |                  **30%** |                    **15%** |                      **15%** |                     **35%** |
-| **4. Seguridad y bienestar digital**      |                    **5%** |                  **10%** |                    **50%** |                      **60%** |                          0% |
+| **3. Dev Web** |                        0% |                  **30%** |                    **15%** |                      **15%** |                     **35%** |
+| **4. Seguridad y bienestar   + PROYECTO: Ciberseguridad**      |                    **5%** |                  **10%** |                    **50%** |                      **60%** |                          0% |
 | **5. Blender + PROYECTO: Figura libre**   |                        0% |                  **25%** |                     **5%** |                           0% |                     **30%** |
 | **TOTAL DE CADA COMPETENCIA**             |                  **100%** |                 **100%** |                   **100%** |                     **100%** |                    **100%** |
 
