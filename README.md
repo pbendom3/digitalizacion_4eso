@@ -9,7 +9,7 @@
 ## :books: Planificación y secuenciación
 `Bienvenida` [Prueba destrezas TIC y autorregulación en RRSS y uso del móvil]() 
 - Pedir manuscrito para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
-- A visualizar [🎥_YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
+- A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
 - Acciones básicas con archivos y carpetas en _Lliurex_.
