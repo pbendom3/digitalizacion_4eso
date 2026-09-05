@@ -59,7 +59,8 @@
 [5. Modelado 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
 
 [:open_file_folder: *PROYECTO: Figura libre*]()
-  - Videotutorial proceso creación (edición vídeo y audio).
+- Exposición del proceso de creación de la figura.
+- Para vergonzosos: Videotutorial proceso creación (edición vídeo y audio).
 
 ---
 
