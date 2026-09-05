@@ -15,7 +15,7 @@
    - Sesgos.
    - Errores LLMs.
    - Uso de NotebookLLM.
-   - Agente Prompt coach de M365.
+   - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
      
 [1. Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP1/up1.md) `1ºT`
    - Tipos de dispositivos.
