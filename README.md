@@ -39,17 +39,18 @@
   - Docs (para generar informe).
   - Presentaciones digitales (para exposición).
 
-[3. Seguridad y bienestar digital](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP3/up3.md) `2ºT`
+[3. Introducción al desarrollo web y la programación]() `2ºT`
+  - HTML básico.
+  - Alojamiento web en _GitHub Pages_.
+  - GSites/Sway.
+  - Desarrollo de aplicaciones móviles con _AppInventor_.
+    
+[4. Seguridad y bienestar digital]() `2ºT`
   - Tipos de seguridad.
   - Amenazas y ataques.
   - Firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online.
   - Privacidad y huella digital.
   - Ciudadanía crítica: bulos y RRSS.
-    
-[4. Introducción al desarrollo web](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `2ºT`
-  - HTML básico.
-  - Alojamiento web en _GitHub Pages_.
-  - GSites/Sway.
     
 [:open_file_folder: *PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
   - Sitio web con info de la exposición.
