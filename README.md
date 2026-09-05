@@ -10,6 +10,8 @@
 `Bienvenida` [Prueba destrezas TIC y autorregulación del uso del móvil]() 
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
+- Acciones básicas con archivos y carpetas.
+- Organización del entorno de trabajo digital. Guardado de la información en la nube.  
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos.
