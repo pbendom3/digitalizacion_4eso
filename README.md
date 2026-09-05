@@ -54,7 +54,7 @@
 
 ---
 
-| **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seg.)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
+| **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seguridad)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
 | ----------------------------------------- | ------------------------: | -----------------------: | -------------------------: | ---------------------------: | --------------------------: |
 | **Bienvenida, Intro e IA (Bonus)**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
 | **1. Dispositivos digitales**       |                   **55%** |                       0% |                    **15%** |                           0% |                          0% |
