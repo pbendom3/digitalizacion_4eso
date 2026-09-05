@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="digi.PNG" width="500" height="">
 
 ## :books: Planificación y secuenciación
-`Bienvenida` [Destrezas TIC y autorregulación del uso del móvil]() 
+`Bienvenida` [Prueba destrezas TIC y autorregulación del uso del móvil]() 
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
 
