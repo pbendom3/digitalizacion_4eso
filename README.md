@@ -8,6 +8,7 @@
 
 ## :books: Planificación y secuenciación
 `Bienvenida` [Prueba destrezas TIC y autorregulación del uso del móvil]() 
+- Pedir manuscrito para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
 - Acciones básicas con archivos y carpetas en _Lliurex_.
