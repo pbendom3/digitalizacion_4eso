@@ -10,8 +10,8 @@
 `Bienvenida` [Prueba destrezas TIC y autorregulación del uso del móvil]() 
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
-- Acciones básicas con archivos y carpetas.
-- Organización del entorno de trabajo digital. Guardado de la información en la nube y creación de entornos colaborativos.
+- Acciones básicas con archivos y carpetas en _Lliurex_.
+- Organización del entorno de trabajo digital en el ecosistema M365. Guardado de la información en la nube y creación de entornos colaborativos.
 - Búsquedas en Internet. Tipos de navegadores.
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
