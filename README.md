@@ -17,9 +17,9 @@
    - Uso de NotebookLM.
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
    - Protocolo de uso de IA:
-      - Cuándo se puede utilizar y cómo debe declararse su uso (evidencias que debe conservar el alumnado).
+      - Cuándo se puede utilizar y qué datos no deben introducirse en una herramienta externa.
+      - Cómo debe declararse su uso (propiedad intelectual y atribución de contenido generado o transformado con IA). Evidencias que debe conservar el alumnado.
       - Cómo se comprueba que el estudiante comprende lo entregado.
-      - Qué datos no deben introducirse en una herramienta externa.
      
 [1. Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP1/up1.md) `1ºT`
    - Tipos de dispositivos.
