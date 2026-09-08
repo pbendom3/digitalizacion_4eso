@@ -36,7 +36,7 @@
   - Dispositivos y canales de interconexión.
   - Parámetros de red y comandos básicos.
 
-#### (Google Earth) Yincana - Redes de Comunicación del Mundo
+#### (Google Earth) Yincana - Redes de Comunicación del Mundo. El viaje de un Paquete de Datos...
 
 Para entender la infraestructura física de Internet, combinando investigación y gamificación. 
 
