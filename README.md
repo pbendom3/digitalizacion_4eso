@@ -17,8 +17,7 @@
 - Navegadores y búsquedas en Internet.
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
-   - Sesgos.
-   - Errores LLMs.
+   - Sesgos y errores LLMs.
    - Uso de _NotebookLM_.
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
    - Protocolo de uso de IA:
