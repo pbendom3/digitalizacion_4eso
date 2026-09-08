@@ -41,6 +41,7 @@
   - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
   - Docs (para generar informe).
   - Presentaciones digitales (para exposición).
+  - Taller de evaluación entre iguales durante la exposición.
 
 [3. Introducción al desarrollo web y la programación]() `2ºT`
   - HTML básico. Alojamiento web en _GitHub Pages_.
