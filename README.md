@@ -46,7 +46,7 @@ Para entender la infraestructura física de Internet, combinando investigación 
 Cada parada debe incluir una pregunta o un reto sobre redes (ej. "¿Qué protocolo de seguridad protege los datos que viajan por este cable?").
 
 Los grupos tendrán que entregar:
-- El archivo KML del mapa con las 5 paradas bien documentadas (con imágenes descriptivas de racks de servidores, cables de fibra, routers, etc.).
+- El archivo KML del mapa con las paradas bien documentadas (con imágenes descriptivas de racks de servidores, cables de fibra, routers, etc.).
 - Un formulario asociado que actúe como "hoja de respuestas" donde configuren la corrección automática (tipo test o respuesta corta) para los compañeros que vayan a jugar su yincana.
 
 [:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
