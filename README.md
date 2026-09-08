@@ -36,14 +36,14 @@
   - Dispositivos y canales de interconexión.
   - Parámetros de red y comandos básicos.
 
-*(Google Earth) Yincana del Conocimiento: "Redes de Comunicación del Mundo".* 
+#### (Google Earth) Yincana - Redes de Comunicación del Mundo
 
-Un proyecto técnico enfocado a entender la infraestructura física de Internet, combinando investigación y gamificación. 
+Para entender la infraestructura física de Internet, combinando investigación y gamificación. 
 
 - Localizar puntos clave de amarre de los cables submarinos de fibra óptica (por ejemplo, en Sopela, Vizcaya o Rota, Cádiz).
 - Marcar grandes centros de datos del mundo (como los de Google en Saint-Ghislain, Bélgica o Amazon en Virginia).
 
-Cada parada debe incluir una pregunta o un reto sobre ciberseguridad o redes (ej. "¿Qué protocolo de seguridad protege los datos que viajan por este cable?").
+Cada parada debe incluir una pregunta o un reto sobre redes (ej. "¿Qué protocolo de seguridad protege los datos que viajan por este cable?").
 
 [:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
   - Excel (presupuesto).
