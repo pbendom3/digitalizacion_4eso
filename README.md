@@ -61,7 +61,7 @@
   - Sitio web con info de la exposición.
   - Para vergonzosos: "_Ciber-Podcast_": grabar un programa de podcast corto sobre un ciberataque famoso. Se exporta en MP3 y se inserta directamente en la página web.
 
-[5. Modelado 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
+[5. Modelado e impresión 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
 
 [:open_file_folder: *PROYECTO: Figura libre*]()
 - Exposición del proceso de creación de la figura.
