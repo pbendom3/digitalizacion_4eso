@@ -49,12 +49,16 @@ Los grupos tendrán que entregar:
 - El archivo KML del mapa con las paradas bien documentadas (con imágenes descriptivas de racks de servidores, cables de fibra, routers, etc.).
 - Un formulario asociado que actúe como "hoja de respuestas" donde configuren la corrección automática (tipo test o respuesta corta) para los compañeros que vayan a jugar su yincana.
 
+---
+
 [:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
   - Excel (presupuesto).
   - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
   - Docs (para generar informe).
   - Presentaciones digitales (para exposición).
   - Taller de evaluación entre iguales durante la exposición.
+
+---
 
 [3. Introducción al desarrollo web y la programación]() `2ºT`
   - HTML básico. Alojamiento web en _GitHub Pages_.
@@ -69,12 +73,18 @@ Los grupos tendrán que entregar:
   - Firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online.
   - Privacidad y huella digital.
   - Ciudadanía crítica: bulos y RRSS.
-    
+
+---
+
 [:open_file_folder: *PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
   - Sitio web con info de la exposición.
   - Para vergonzosos: "_Ciber-Podcast_": grabar un programa de podcast corto sobre un ciberataque famoso. Se exporta en MP3 y se inserta directamente en la página web.
 
+---
+
 [5. Modelado e impresión 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
+
+---
 
 [:open_file_folder: *PROYECTO: Figura libre*]()
 - Exposición del proceso de creación de la figura.
