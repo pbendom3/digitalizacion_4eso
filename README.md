@@ -14,7 +14,7 @@
 `Introducción` [Correo electrónico y buenas prácticas en informática]() 
 - Acciones básicas con archivos y carpetas en _Lliurex_.
 - Organización del entorno de trabajo digital en el ecosistema _M365/Google_. Guardado de la información en la nube y creación de entornos colaborativos.
-- Búsquedas en Internet. Tipos de navegadores.
+- Navegadores y Búsquedas en Internet.
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos.
