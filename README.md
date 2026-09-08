@@ -17,6 +17,7 @@
 - Navegadores y búsquedas en Internet.
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
+   - Intro a la IA. [Tokenizador](https://platform.openai.com/tokenizer).
    - Sesgos y errores LLMs.
    - Uso académico de _NotebookLM_.
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
