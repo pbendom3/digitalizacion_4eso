@@ -82,7 +82,7 @@ Los grupos tendrán que entregar:
 ---
 
 [:open_file_folder: *PROYECTO: Ciberseguridad (ataques y curiosidades)*]()
-  - Sitio web con info de la exposición (generada con IA).
+  - Sitio web con info de la exposición (generada con IA a partir de la información recopilada).
   - Para vergonzosos: "_Ciber-Podcast_": grabar un programa de podcast corto sobre un ciberataque famoso. Se exporta en MP3 y se inserta directamente en la página web.
 
 ---
