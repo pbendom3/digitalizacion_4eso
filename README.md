@@ -68,10 +68,11 @@ Los grupos tendrán que entregar:
   - HTML básico. Alojamiento web en _GitHub Pages_.
   - GSites/Sway.
   - Desarrollo de aplicaciones móviles con _AppInventor_.
+     - Crear web en _Sites_ para publicar las apps realizadas a modo de _App Store / Play Store_. 
      - Introducir IA con ML4Kids.
      - Audacity para poner voz a las grabaciones de pantalla para presentar trabajos probando apps.
     
-[4. Seguridad y bienestar digital]() `2ºT`
+[4. Seguridad y bienestar digital]() `3ºT`
   - Tipos de seguridad.
   - Amenazas y ataques.
   - Firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online.
@@ -86,7 +87,7 @@ Los grupos tendrán que entregar:
 
 ---
 
-[5. Modelado e impresión 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `3ºT`
+[5. Modelado e impresión 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `BONUS`
 
 ---
 
