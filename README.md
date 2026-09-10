@@ -49,7 +49,7 @@
 
 ---
 
-**(:open_file_folder: [Google Earth](https://intef.es/observatorio_tecno/google-earth-nos-vamos-de-ruta/)) Yincana - Redes de Comunicación del Mundo. El viaje de un Paquete de Datos...**
+**:open_file_folder: ([Google Earth](https://intef.es/observatorio_tecno/google-earth-nos-vamos-de-ruta/)) Yincana - Redes de Comunicación del Mundo. El viaje de un Paquete de Datos...**
 
 Para entender la infraestructura física de Internet, combinando investigación y gamificación. 
 
