@@ -104,6 +104,6 @@ Los grupos tendrán que entregar:
 | **2. Redes + Yincana**   |                   **40%** |                  **25%** |                     **5%** |                           0% |                     **20%** |
 | **3. Dev Web y apps** |                        0% |                  **30%** |                    **15%** |                      **15%** |                     **20%** |
 | **4. Seguridad y bienestar + PROYECTO Ciberseguridad**      |                    **5%** |                  **10%** |                    **50%** |                      **60%** |                          **20%** |
-| **5. Blender + PROYECTO: Figura libre**   |                        0% |                  **25%** |                     **5%** |                           0% |                     **20%** |
+| **5. Blender + PROYECTO Figura libre**   |                        0% |                  **25%** |                     **5%** |                           0% |                     **20%** |
 | **TOTAL DE CADA COMPETENCIA**             |                  **100%** |                 **100%** |                   **100%** |                     **100%** |                    **100%** |
 
