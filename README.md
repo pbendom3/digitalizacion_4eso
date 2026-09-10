@@ -100,10 +100,10 @@ Los grupos tendrán que entregar:
 | **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seguridad)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
 | ----------------------------------------- | ------------------------: | -----------------------: | -------------------------: | ---------------------------: | --------------------------: |
 | **Bienvenida, Intro e IA (Bonus)**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
-| **1. Dispositivos digitales + PROYECTO PC Customizado**       |                   **55%** |                      **20%** |                    **15%** |                           0% |                         **20%** |
+| **1. Dispositivos digitales + PROYECTO PC Customizado**       |                   **50%** |                      **20%** |                    **15%** |                           0% |                         **20%** |
 | **2. Redes + Yincana**   |                   **40%** |                  **20%** |                     **5%** |                           0% |                     **20%** |
-| **3. Dev Web y apps** |                        0% |                  **20%** |                    **15%** |                      **15%** |                     **20%** |
+| **3. Dev Web y apps** |                        **5%** |                  **25%** |                    **15%** |                      **15%** |                     **20%** |
 | **4. Seguridad y bienestar + PROYECTO Ciberseguridad**      |                    **5%** |                  **20%** |                    **50%** |                      **60%** |                          **20%** |
-| **5. Blender + PROYECTO Figura libre**   |                        0% |                  **10%** |                     **5%** |                           0% |                     **20%** |
+| **5. Blender + PROYECTO Figura libre**   |                        0% |                  **5%** |                     **5%** |                           0% |                     **20%** |
 | **TOTAL DE CADA COMPETENCIA**             |                  **100%** |                 **100%** |                   **100%** |                     **100%** |                    **100%** |
 
