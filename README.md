@@ -100,10 +100,10 @@ Los grupos tendrán que entregar:
 | **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seguridad)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
 | ----------------------------------------- | ------------------------: | -----------------------: | -------------------------: | ---------------------------: | --------------------------: |
 | **Bienvenida, Intro e IA (Bonus)**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
-| **1. Dispositivos digitales**       |                   **55%** |                       0% |                    **15%** |                           0% |                          0% |
-| **2. Redes + PROYECTO: PC Customizado**   |                   **40%** |                  **25%** |                     **5%** |                           0% |                     **35%** |
-| **3. Dev Web** |                        0% |                  **30%** |                    **15%** |                      **15%** |                     **35%** |
-| **4. Seguridad y bienestar   + PROYECTO: Ciberseguridad**      |                    **5%** |                  **10%** |                    **50%** |                      **60%** |                          0% |
+| **1. Dispositivos digitales + PROYECTO PC Customizado**       |                   **55%** |                       0% |                    **15%** |                           0% |                          0% |
+| **2. Redes + Yincana**   |                   **40%** |                  **25%** |                     **5%** |                           0% |                     **35%** |
+| **3. Dev Web y apps** |                        0% |                  **30%** |                    **15%** |                      **15%** |                     **35%** |
+| **4. Seguridad y bienestar + PROYECTO Ciberseguridad**      |                    **5%** |                  **10%** |                    **50%** |                      **60%** |                          0% |
 | **5. Blender + PROYECTO: Figura libre**   |                        0% |                  **25%** |                     **5%** |                           0% |                     **30%** |
 | **TOTAL DE CADA COMPETENCIA**             |                  **100%** |                 **100%** |                   **100%** |                     **100%** |                    **100%** |
 
