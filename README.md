@@ -30,13 +30,26 @@
    - Tipos de dispositivos.
    - Sistemas operativos.
    - Informática verde (_Green IT_).
-     
+
+---
+
+**:open_file_folder: PROYECTO: PC customizado (para cliente)**
+  - Excel (presupuesto).
+  - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
+  - Docs (para generar informe).
+  - Presentaciones digitales (para exposición).
+  - Taller de evaluación entre iguales durante la exposición.
+
+---
+
 [2. Redes de comunicación](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP2/up2.md) `1ºT`
   - Internet y tipos de redes.
   - Dispositivos y canales de interconexión.
   - Parámetros de red y comandos básicos.
 
-#### ([Google Earth](https://intef.es/observatorio_tecno/google-earth-nos-vamos-de-ruta/)) Yincana - Redes de Comunicación del Mundo. El viaje de un Paquete de Datos...
+---
+
+**(:open_file_folder: [Google Earth](https://intef.es/observatorio_tecno/google-earth-nos-vamos-de-ruta/)) Yincana - Redes de Comunicación del Mundo. El viaje de un Paquete de Datos...**
 
 Para entender la infraestructura física de Internet, combinando investigación y gamificación. 
 
@@ -48,15 +61,6 @@ Cada parada debe incluir una pregunta o un reto sobre redes (ej. "¿Qué protoco
 Los grupos tendrán que entregar:
 - El archivo KML del mapa con las paradas bien documentadas (con imágenes descriptivas de racks de servidores, cables de fibra, routers, etc.).
 - Un formulario asociado que actúe como "hoja de respuestas" donde configuren la corrección automática (tipo test o respuesta corta) para los compañeros que vayan a jugar su yincana.
-
----
-
-[:open_file_folder: *PROYECTO: PC customizado (para cliente)*]()
-  - Excel (presupuesto).
-  - Formulario de estudio de necesidades del cliente: ¿Para qué usará el PC (ofimática, diseño 3D, gaming)? ¿Qué presupuesto máximo tiene? ¿Necesita movilidad (portátil) o torre fija?
-  - Docs (para generar informe).
-  - Presentaciones digitales (para exposición).
-  - Taller de evaluación entre iguales durante la exposición.
 
 ---
 
