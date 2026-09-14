@@ -1,6 +1,6 @@
 ## La *Web 2.0*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="web20.PNG" width="400" height="">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="web20.PNG" width="" height="">
 
 `📌 El término 'Web 2.0' o 'Web social'​ comprende aquellos sitios web que facilitan compartir información: es decir, que permite a los usuarios interactuar y colaborar entre sí como creadores de contenido.`
 
@@ -22,11 +22,11 @@ La nube o “cloud computing” permite almacenar y acceder a datos a través de
 
 Los tres tipos de nubes que existen son:
 
-- Nube pública: este tipo de nube ofrece sus servicios a cualquier usuario de internet. Los clientes pagan por el espacio de almacenamiento que necesitan. 
+- **Nube pública**: este tipo de nube ofrece sus servicios a cualquier usuario de internet. Los clientes pagan por el espacio de almacenamiento que necesitan. 
 
-- Nube privada: en este caso se ofrecen los servicios a un número limitado de usuarios a través de las redes empresariales. 
+- **Nube privada**: en este caso se ofrecen los servicios a un número limitado de usuarios a través de las redes empresariales. 
 
-- Nube híbrida: en este caso se almacenan datos en nubes públicas o privadas en función de las necesidades. 
+- **Nube híbrida**: en este caso se almacenan datos en nubes públicas o privadas en función de las necesidades. 
 
 ---
 
@@ -42,17 +42,17 @@ Los tres tipos de nubes que existen son:
 
 ---
 
-**Ejemplos de nube en informática**
+**Ejemplos de nube**
 
 A continuación, mostramos algunos ejemplos de nube que existen en la actualidad:
 
-- _Microsoft OneDrive_: es la plataforma en la nube pública de Microsoft. 
+- [_Microsoft OneDrive_](https://onedrive.live.com/login/es-es/): es la plataforma en la nube pública de Microsoft. 
 
-- _Google Drive_: es una agrupación de distintos servicios de Google en una misma plataforma.
+- [_Google Drive_](https://drive.google.com/drive/): es una agrupación de distintos servicios de Google en una misma plataforma.
 
-- _Dropbox_ ò _MEGA_: funcionan como cualquier carpeta de nuestro ordenador, pero con sus servidores en la nube. De esta manera, podemos guardar en _Dropbox_ ò _MEGA_ cualquier tipo de archivo.
+- [_Dropbox_](https://www.dropbox.com/) ò [_MEGA_](https://mega.io/es/): funcionan como cualquier carpeta de nuestro ordenador, pero con sus servidores en la nube. De esta manera, podemos guardar en _Dropbox_ ò _MEGA_ cualquier tipo de archivo.
 
-- _iCloud_: es un servicio en la nube para usuarios de _Apple_.
+- [_iCloud_](https://www.icloud.com/iclouddrive/): es un servicio en la nube para usuarios de _Apple_.
 
 ---
 
