@@ -91,7 +91,7 @@ Los grupos tendrán que entregar:
 
 ---
 
-| **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seguridad)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
+| **Temas y Proyectos**                 | **CE1 (Equipos y Redes) 25% ** | **CE2 (Creación y EPA) 20% ** | **CE3 (Bienestar y Seguridad) 20% ** | **CE4 (Ciudadanía Crítica) 15% ** | **CE5 (Proyectos y Retos) 20% ** |
 | ----------------------------------------- | ------------------------: | -----------------------: | -------------------------: | ---------------------------: | --------------------------: |
 | **1. Intro e IA**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
 | **2. Dispositivos digitales + PROYECTO PC Customizado**       |                   **50%** |                      **20%** |                    **15%** |                           0% |                         **25%** |
