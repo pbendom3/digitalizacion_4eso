@@ -11,10 +11,12 @@
 - A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
 `Introducción` [Correo electrónico y buenas prácticas en informática]()
-- Pedir manuscrito (correo) para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
+- Pedir manuscrito (correo sobre relación con la IA y qué herramientas o apps tendrían interés en aprender) para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
 - Acciones básicas con archivos y carpetas en _Lliurex_.
-- Organización del entorno de trabajo digital en el ecosistema _M365/Google_. Guardado de la información en la nube y creación de entornos colaborativos.
-- Navegadores y búsquedas en Internet.
+- [Navegadores](Navegadores_estructura_direcciones_web_(URL).pdf) y [búsquedas](Buscadores.pdf) en Internet.
+- La *Web 2.0*. Organización del [entorno de trabajo digital](web20.md) en el ecosistema _M365/Google_. Guardado de la información en la nube y creación de entornos colaborativos.
+
+---
 
 [1. Hablemos de... Inteligencia Artificial](./IA/ia.md) `1ºT`
      
