@@ -16,17 +16,9 @@
 - Organización del entorno de trabajo digital en el ecosistema _M365/Google_. Guardado de la información en la nube y creación de entornos colaborativos.
 - Navegadores y búsquedas en Internet.
 
-`BONUS` [Uso responsable de la IA como estudiantes]() 
-   - Intro a la IA. [Tokenizador](https://platform.openai.com/tokenizer).
-   - Sesgos y errores LLMs.
-   - Uso académico de _NotebookLM_.
-   - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
-   - Protocolo de uso de IA:
-      - Cuándo se puede utilizar y qué datos no deben introducirse en una herramienta externa.
-      - Cómo debe declararse su uso (propiedad intelectual y atribución de contenido generado o transformado con IA). Evidencias que debe conservar el alumnado.
-      - Cómo se comprueba que el estudiante comprende lo entregado.
+[1. Hablemos de... Inteligencia Artificial](./IA/ia.md) `1ºT`
      
-[1. Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP1/up1.md) `1ºT`
+[2. Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP1/up1.md) `1ºT`
    - Tipos de dispositivos.
    - Sistemas operativos.
    - Informática verde (_Green IT_).
@@ -42,7 +34,7 @@
 
 ---
 
-[2. Redes de comunicación](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP2/up2.md) `1ºT`
+[3. Redes de comunicación](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP2/up2.md) `1ºT`
   - Internet y tipos de redes.
   - Dispositivos y canales de interconexión.
   - Parámetros de red y comandos básicos.
@@ -64,7 +56,7 @@ Los grupos tendrán que entregar:
 
 ---
 
-[3. Introducción al desarrollo web y la programación]() `2ºT`
+[4. Introducción al desarrollo web y la programación]() `2ºT`
   - HTML básico. Alojamiento web en _GitHub Pages_.
   - GSites/Sway.
   - Desarrollo de aplicaciones móviles con _AppInventor_.
@@ -72,7 +64,7 @@ Los grupos tendrán que entregar:
      - Introducir IA con ML4Kids.
      - Audacity para poner voz a las grabaciones de pantalla para presentar trabajos probando apps.
     
-[4. Seguridad y bienestar digital]() `3ºT`
+[5. Seguridad y bienestar digital]() `3ºT`
   - Tipos de seguridad.
   - Amenazas y ataques.
   - Firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online.
@@ -87,7 +79,7 @@ Los grupos tendrán que entregar:
 
 ---
 
-[5. Modelado e impresión 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `BONUS`
+[6. Modelado e impresión 3D con Blender](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP4/up4.md) `BONUS`
 
 ---
 
@@ -99,7 +91,7 @@ Los grupos tendrán que entregar:
 
 | **Temas y Proyectos**                 | **CE1 (Equipos y Redes)** | **CE2 (Creación y EPA)** | **CE3 (Bienestar y Seguridad)** | **CE4 (Ciudadanía Crítica)** | **CE5 (Proyectos y Retos)** |
 | ----------------------------------------- | ------------------------: | -----------------------: | -------------------------: | ---------------------------: | --------------------------: |
-| **Bienvenida, Intro e IA (Bonus)**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
+| **Intro e IA**        |                        0% |                  **10%** |                    **10%** |                      **25%** |                          0% |
 | **1. Dispositivos digitales + PROYECTO PC Customizado**       |                   **50%** |                      **20%** |                    **15%** |                           0% |                         **25%** |
 | **2. Redes + Yincana**   |                   **40%** |                  **20%** |                     **5%** |                           0% |                     **20%** |
 | **3. Dev Web y apps** |                        **5%** |                  **25%** |                    **15%** |                      **15%** |                     **20%** |
