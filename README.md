@@ -8,10 +8,10 @@
 
 ## :books: Planificación y secuenciación
 `Bienvenida` [Prueba destrezas TIC + autorregulación en RRSS y uso del móvil]() 
-- Pedir manuscrito para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
 - A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
-`Introducción` [Correo electrónico y buenas prácticas en informática]() 
+`Introducción` [Correo electrónico y buenas prácticas en informática]()
+- Pedir manuscrito (correo) para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
 - Acciones básicas con archivos y carpetas en _Lliurex_.
 - Organización del entorno de trabajo digital en el ecosistema _M365/Google_. Guardado de la información en la nube y creación de entornos colaborativos.
 - Navegadores y búsquedas en Internet.
